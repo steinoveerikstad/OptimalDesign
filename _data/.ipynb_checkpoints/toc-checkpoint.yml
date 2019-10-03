@@ -34,19 +34,31 @@
 # Part 2: Post solution analysis
 - title: Part 2 - Post-solution analysis
   url: /features/features
+  not_numbered: true
 
 # Part 3: Integer and binary programming
 - title: Part 3 - Integer and binary programming
   url: /features/features
+  not_numbered: true
 
 # Part 4: Model building
 - title: Part 4 - Post-solution analysis
   url: /features/features
+  not_numbered: true
 
 # Part 5: Transportation problems
 - title: Part 5 - Transportation problems
   url: /p5_transportation/tp_intro
-
+  not_numbered: true
+  expand_sections: true
+  sections:
+  - title: Finding an initial feasible solution
+    url: /p5_transportation/tp_initsol
+    not_numbered: true
+  - title: Jupyter notebooks
+    url: /features/notebooks
+    not_numbered: true
+    
 # Adds a searchbar link
 - title: Search
   search: true

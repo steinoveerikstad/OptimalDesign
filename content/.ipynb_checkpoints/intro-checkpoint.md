@@ -4,13 +4,13 @@ It is assumed that the readers have a basic understanding of main concepts in op
 
 This book contains four main parts:
 
-Part 1 Introduction to linear optimization
-Part 2 Post-solution analysis
-Part 3 Integer and binary models
-Part 4 Marine systems modelling cases
-Part 5 Transportation problems
-Part 6 Non-linear optimization
-Part 7 Genetic algorithms
+* Part 1 Introduction to linear optimization
+* Part 2 Post-solution analysis
+* Part 3 Integer and binary models
+* Part 4 Marine systems modelling cases
+* Part 5 Transportation problems
+* Part 6 Non-linear optimization
+* Part 7 Genetic algorithms
 
 ## Getting started
 
